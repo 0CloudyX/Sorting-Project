@@ -1,0 +1,11 @@
+8 A P
+8 D P
+8 R P
+8 S P
+8 E P
+8 S i
+8 S q
+8 S m
+64 A I
+64 A Q
+64 A M
